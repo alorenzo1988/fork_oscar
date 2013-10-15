@@ -25,7 +25,7 @@ public class Programa6 {
                     aux = valores[j + 1];
                     valores[j + 1] = valores[j];
                     valores[j] = aux;
-
+                         //Oscar Coleto esta aquí
                 }
             }
         }
